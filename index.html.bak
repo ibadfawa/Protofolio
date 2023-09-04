@@ -3,7 +3,7 @@
     <head>
         <meta charset="utf-8">
         <meta content="width=device-width, initial-scale=1.0" name="viewport">
-        <title>iPortfolio Bootstrap Template - Index</title>
+        <title>Moh Ibadi Al Musthofa Portfolio</title>
         <meta content="" name="description">
         <meta content="" name="keywords"> <!-- Favicons -->
         <link href="assets/img/favicon.png" rel="icon">
@@ -58,8 +58,9 @@
                 <div class="container">
                     <div class="section-title">
                         <h2>Tentang Saya</h2>
-                        <p>Saya Mahasiswa semester 8, Sistem Informasi. Saya memiliki keterampilan dalam Penetration Testing, Analisis Dinamis, serta bugs fixing dan Maintenance. Fokus saya adalah pada Mobile Application Saya adalah seorang profesional tekhnologi informasi dengan hasrat besar untuk inovasi dan System Security. Saya percaya bahwa untuk memahami cara melindungi sistem, kita harus memiliki pemahaman yang mendalam tentang cara meretasnya. Oleh karena itu, saya mempelajari seni penetrasi, pengujian keamanan, dan analisis kerentanan. Selain dari sisi teknis, saya adalah seorang yang senang berkolaborasi dengan developer diluar negeri. Saya suka berbagi pengetahuan dan pengalaman dengan sesama profesional, baik itu melalui pembicaraan, pelatihan, atau penulisan. Saya juga percaya dalam mengembangkan diri secara berkelanjutan dan selalu siap untuk mempelajari hal-hal baru di dunia teknologi. Selama perjalanan karier saya, saya telah menghadapi berbagai tantangan. Dengan tekad untuk menjaga dunia digital kita tetap aman dan terus berkembang, saya siap untuk menghadapi setiap tantangan yang ada. 
-                        Terima kasih telah mengunjungi portofolio saya.</p>
+                        <p>Saya Mahasiswa semester 8, Sistem Informasi. Saya adalah seorang Analis Mobile Security, dengan hasrat besar untuk inovasi dan System Security. Saya percaya bahwa untuk memahami cara melindungi sistem, kita harus memiliki pemahaman yang mendalam tentang cara meretasnya. Oleh karena itu, saya mempelajari seni penetrasi, pengujian keamanan, dan analisis kerentanan. Selain dari sisi teknis, saya adalah seorang yang senang berkolaborasi dengan developer diluar negeri. Saya suka berbagi pengetahuan dan pengalaman dengan sesama profesional, baik itu melalui pembicaraan, pelatihan, atau penulisan. Saya juga percaya dalam mengembangkan diri secara berkelanjutan dan selalu siap untuk mempelajari hal-hal baru di dunia teknologi. Selama perjalanan karier saya, saya telah menghadapi berbagai tantangan. Dengan tekad untuk menjaga dunia digital kita tetap aman dan terus berkembang, saya siap untuk menghadapi setiap tantangan yang ada.</p>
+                        <p>•</p>
+                        <p>Terima kasih telah mengunjungi portofolio saya.</p>
                     </div>
                     <div class="row">
                         <div class="col-lg-4" data-aos="fade-right">
@@ -84,9 +85,11 @@
                               <li>Frida Dynamic Reverse Tool</li>
                               <li>Debugging</li>
                               <li>Radare2</li>
-                              <li>Android Studio (Soft Skills)</li>
-                              <li>Basic Javascript</li>
+                              <li>Penetration Testing</li>
+                              <li>Malware Analysis</li>
                               <li>Problem Solving</li>
+                              <li>Maintenance</li>
+                              <li>Software Installation</li>
                             </ul>
                         </div>
                     </div>
