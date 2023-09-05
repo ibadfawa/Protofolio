@@ -30,7 +30,8 @@
                 <div class="profile">
                     <!-- <img src="assets/img/profile-img.jpg" alt="" class="img-fluid rounded-circle"> -->
                     <h1 class="text-light"><a href="index.html">Ibadi Musthofa</a></h1>
-                    <div class="social-links mt-3 text-center"> <a href="https://www.linkedin.com/in/m-ibadi-al-musthofa-518868147" class="linkedin"><i class="bx bxl-linkedin"></i></a>
+                    <div class="social-links mt-3 text-center">
+                        <a href="https://www.linkedin.com/in/m-ibadi-al-musthofa-518868147" class="linkedin"><i class="bx bxl-linkedin"></i></a>
                     </div>
                 </div>
                 <nav id="navbar" class="nav-menu navbar">
@@ -70,12 +71,21 @@
                     <div class="section-title">
                         <h2>Kemampuan</h2>
                         <p>Dalam peran saya sebagai Mobile Security Analyst, saya melakukan tes secara langsung dengan mendebung / merekayasa balik sebuah sistem keamanan dan Integritas apk. Dalam hal ini sangat membantu Backend Developer untuk memperkuat sistem keamanan sebelum Aplikasi di rilis. Video dibawah saya lakukan Penetration Testing pada Aplikasi dengan memanipulasi Signature Check.</p>
-                        
+                        <p>•</p>
+                        <p></p>
                         <p>Video Pengalaman saya dalam menguji aplikasi web, aplikasi seluler, Melakukan uji penetrasi secara manual dan otomatis untuk mengidentifikasi potensi ancaman keamanan. Berhasil saya lakukan di perusahaan Proteksi Aplikasi seluler di china</p>
                         <div>
                             <video width="400" height="400" controls><source src="assets/img/tes.mp4" type="video/mp4"> Your browser does not support the video tag.
                             </video>
                         </div>
+                        <div style="height: 50px;"></div>
+                        <p>• Syscall Tracking Script</p>
+                        <div style="height: 10px;"></div>
+                        <title>Gambar dengan Jarak</title> <img src="assets/img/sc1.jpg" alt="Deskripsi gambar 1" width="300" height="600"> 
+                        <div style="height: 50px;"></div>
+                        <p>• Hooking Native Function</p>
+                        <div style="height: 10px;"></div>
+                        <img src="assets/img/sc1.jpg" alt="Deskripsi gambar 2" width="300" height="600"> 
                     </div>
                     <div class="row skills-content">
                         <div class="col-lg-6" data-aos="fade-up">
